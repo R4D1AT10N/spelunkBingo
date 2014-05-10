@@ -49,7 +49,7 @@ hardGoals = [
 "Obtain Vlad's Cape|heartNoShooting|Vlad must be killed, and the cape must be put on for a few seconds.",
 "Kill 'Ol Bitey|heartNoTreasure|You're welcome, Pib ;)",
 "Kill the alien queen in the Mothership|heartNoContainers",
-"Kill all Giant Spiders on a "Skin is Crawling" level|satanNoChest|This includes any found outside of the centralized cocoons.",
+"Kill all Giant Spiders on a Skin is Crawling level|satanNoChest|This includes any found outside of the centralized cocoons.",
 "Take a picture of the Ghost|satanNoBombs|Use the camera.",
 "Kill Anubis II|satanNoShop",
 "Kill ALL the shopkeepers in the Black Market|fartOnSatan",
